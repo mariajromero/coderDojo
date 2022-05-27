@@ -1,0 +1,76 @@
+.tarjeta1{ 
+    border-width:20px; 
+    border-style: double; 
+    border-color: #c93cb9; 
+    border-radius:20px; 
+    width: 500px; 
+    height: 650px; 
+    background-color:#3dc4db;
+}
+.titulo1{ 
+    font-family: fantasy;
+    color:#d0f5f2;
+} 
+.tarjeta2{
+    border-width:10px;
+    border-style: double;
+    border-color: #c93cb9;
+    border-radius:20px;
+    width: 500px;
+    height: 650px;
+    background-color:#3dc4db;
+  }
+  .titulo2{
+      font-family: fantasy;
+    
+  }
+  .foto2{
+    width:400px;
+  }
+  .tarjeta3{
+    border-width:10px;
+    border-style: double;
+    border-color: #c93cb9;
+    border-radius:20px;
+    width: 500px;
+    height: 650px;
+    background-color: #3dc4db;
+  }
+  
+  .titulo3 {
+    font-family: fantasy;
+  color: #eb5834;
+  }
+  .foto3{
+    width: 400px;
+    height: 300px;
+    margin-left:5%;
+  }
+  .tarjeta4{
+    border-width:10px;
+    border-style: double;
+    border-color: #3bf7e5;
+    border-radius:20px;
+    width: 500px;
+    height: 640px;
+    background-color:#3b48f7;
+    font-style: italic;
+  }
+  
+  .foto4{
+    width: 400px;
+    height: 300px;
+    margin-left:0%;
+    
+  }
+  .tarjeta5{ border-width:10px; 
+    border-style: double; 
+    border-color: #c93cb9; 
+    border-radius:20px; 
+    width: 500px; height: 
+    650px; 
+    background-color:#3dc4db;}
+  .titulo5 {
+    font-family: fantasy;
+  }
+  .foto5{width:  400px; }
