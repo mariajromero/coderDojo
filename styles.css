@@ -1,3 +1,12 @@
+.hola{
+    margin: 3%;
+    align-items:center;
+}
+.title{
+    margin: 5%;
+    text-align: center;
+}
+
 .tarjeta1{ 
     border-width:20px; 
     border-style: double; 
